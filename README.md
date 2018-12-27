@@ -1,4 +1,4 @@
-# MEAN
+# Pokedex Angular CURD Application with API
 All about MEAN stack.
 The project includes an Express REST API and it's Angular front-end. All CURD operations are performed.
 Usage:
