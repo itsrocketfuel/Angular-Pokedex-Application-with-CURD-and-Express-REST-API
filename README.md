@@ -6,3 +6,4 @@ Usage:
 - Run both servers using npm start.
 - API runs on localhost:69 and Angular runs on localhost:4200
 - Gotta curd 'em all, okay?
+
